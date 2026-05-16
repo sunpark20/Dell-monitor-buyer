@@ -10232,5 +10232,45 @@
       "fetchedAt": "2026-05-16T10:12:15.136Z"
     },
     "alerts": []
+  },
+  {
+    "timestamp": "2026-05-16T15:57:16.594Z",
+    "danawa": {
+      "lowestPrice": 1336290,
+      "sellers": [
+        {
+          "seller": "주식회사 요테크",
+          "price": 1288900
+        },
+        {
+          "seller": "나이스이엔시",
+          "price": 1289000
+        },
+        {
+          "seller": "베컴",
+          "price": 1289900
+        },
+        {
+          "seller": "A1피씨",
+          "price": 1290000
+        },
+        {
+          "seller": "컴오아시스",
+          "price": 1336290
+        }
+      ],
+      "productName": "DELL U4323QE",
+      "fetchedAt": "2026-05-16T15:57:05.601Z"
+    },
+    "dell": {
+      "officialPrice": null,
+      "salePrice": null,
+      "discountBadge": null,
+      "promotions": [],
+      "onDealsPage": false,
+      "cardDiscounts": [],
+      "fetchedAt": "2026-05-16T15:57:05.613Z"
+    },
+    "alerts": []
   }
 ]
