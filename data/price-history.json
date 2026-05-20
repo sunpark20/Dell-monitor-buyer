@@ -10798,5 +10798,45 @@
       "error": "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/firefox-1509/firefox/firefox\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝"
     },
     "alerts": []
+  },
+  {
+    "timestamp": "2026-05-20T06:48:23.530Z",
+    "danawa": {
+      "lowestPrice": 1338980,
+      "sellers": [
+        {
+          "seller": "나이스이엔시",
+          "price": 1288000
+        },
+        {
+          "seller": "주식회사 요테크",
+          "price": 1288900
+        },
+        {
+          "seller": "베컴",
+          "price": 1289900
+        },
+        {
+          "seller": "A1피씨",
+          "price": 1290000
+        },
+        {
+          "seller": "G마켓",
+          "price": 1338890
+        }
+      ],
+      "productName": "DELL U4323QE",
+      "fetchedAt": "2026-05-20T06:48:11.024Z"
+    },
+    "dell": {
+      "officialPrice": null,
+      "salePrice": null,
+      "discountBadge": null,
+      "promotions": [],
+      "onDealsPage": false,
+      "cardDiscounts": [],
+      "fetchedAt": "2026-05-20T06:48:11.037Z"
+    },
+    "alerts": []
   }
 ]
