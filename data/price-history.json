@@ -17348,5 +17348,25 @@
       "fetchedAt": "2026-06-30T11:43:53.787Z"
     },
     "alerts": []
+  },
+  {
+    "timestamp": "2026-06-30T17:05:32.179Z",
+    "danawa": {
+      "lowestPrice": null,
+      "sellers": [],
+      "productName": "Dell U4323QE",
+      "fetchedAt": "2026-06-30T17:05:20.232Z",
+      "error": "fetch failed"
+    },
+    "dell": {
+      "officialPrice": null,
+      "salePrice": null,
+      "discountBadge": null,
+      "promotions": [],
+      "onDealsPage": false,
+      "cardDiscounts": [],
+      "fetchedAt": "2026-06-30T17:05:20.244Z"
+    },
+    "alerts": []
   }
 ]
