@@ -21611,5 +21611,45 @@
         "message": "1,498,920원 → 1,498,910원 (0.0% 하락, 10원↓)"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T06:26:48.811Z",
+    "danawa": {
+      "lowestPrice": 1498930,
+      "sellers": [
+        {
+          "seller": "베컴",
+          "price": 1288000
+        },
+        {
+          "seller": "주식회사 하나컴",
+          "price": 1298000
+        },
+        {
+          "seller": "쿠팡",
+          "price": 1498930
+        },
+        {
+          "seller": "옥션",
+          "price": 1499000
+        },
+        {
+          "seller": "옥션",
+          "price": 1499000
+        }
+      ],
+      "productName": "DELL U4323QE",
+      "fetchedAt": "2026-07-27T06:26:37.528Z"
+    },
+    "dell": {
+      "officialPrice": null,
+      "salePrice": null,
+      "discountBadge": null,
+      "promotions": [],
+      "onDealsPage": false,
+      "cardDiscounts": [],
+      "fetchedAt": "2026-07-27T06:26:37.542Z"
+    },
+    "alerts": []
   }
 ]
