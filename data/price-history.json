@@ -22453,5 +22453,45 @@
         "message": "최저가 1,020,000원 ≤ 목표가 1,210,000원"
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-01T05:52:40.555Z",
+    "danawa": {
+      "lowestPrice": 1498920,
+      "sellers": [
+        {
+          "seller": "주식회사 하나컴",
+          "price": 1298000
+        },
+        {
+          "seller": "베컴",
+          "price": 1490000
+        },
+        {
+          "seller": "쿠팡",
+          "price": 1498920
+        },
+        {
+          "seller": "G마켓",
+          "price": 1498920
+        },
+        {
+          "seller": "옥션",
+          "price": 1499000
+        }
+      ],
+      "productName": "DELL U4323QE",
+      "fetchedAt": "2026-08-01T05:52:30.540Z"
+    },
+    "dell": {
+      "officialPrice": null,
+      "salePrice": null,
+      "discountBadge": null,
+      "promotions": [],
+      "onDealsPage": false,
+      "cardDiscounts": [],
+      "fetchedAt": "2026-08-01T05:52:30.553Z"
+    },
+    "alerts": []
   }
 ]
